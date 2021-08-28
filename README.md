@@ -1,7 +1,7 @@
 # bypass-linkvertise
 
 C'est simple,
-Tu en a marre de linkvertise de merde avec leurs pub d'articles et des extentions chrome ?
+Tu en a marre de linkvertise de merde avec leurs pub d'articles et des extentions ?
 J'ai la solution !
 
 ===
